@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1103478215",
+    "firebase_url": "https://fbladata.firebaseio.com",
+    "project_id": "fbladata",
+    "storage_bucket": "fbladata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1103478215:android:09d74114e1bf8ae7",
+        "android_client_info": {
+          "package_name": "com.example.ghautham.fblaquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1103478215-5b5eau52hb16emhqnsua7tmvsag9kl44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghautham.fblaquiz",
+            "certificate_hash": "c66b009f5a4be6e17d04d303afc304e35f81e082"
+          }
+        },
+        {
+          "client_id": "1103478215-cusbe1qhginpr3j5c31be33oq3sbn5b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGj9Yd_DKI6Essb8Bf0REu636lyYCPiA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1103478215-cusbe1qhginpr3j5c31be33oq3sbn5b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
